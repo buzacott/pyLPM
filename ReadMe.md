@@ -7,4 +7,5 @@ So far only piston-flow, exponential mixing and exponential piston-flow models h
 been implemented. Binary mixing models and the like will be added in the future when
 I have time.
 
-The implementations are based on the descriptions in the TracerLPM manual (https://pubs.usgs.gov/tm/4-f3/pdf/tm4-F3.pdf)
+The implementations are based on the descriptions in the TracerLPM manual (https://ca.water.usgs.gov/user_projects/TracerLPM/,
+also on GitHub https://github.com/bcjurgens/TracerLPM).
